@@ -23,7 +23,7 @@ public class Movie {
     private String releaseDate;
     private String trailerLink;
     private String poster;
-    private List<String> genre;
+    private List<String> genres;
     private List<String> backdrops;
 //    store only ids of reviews and reviews in diff
     @DocumentReference
